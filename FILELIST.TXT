@@ -1,0 +1,10 @@
+ews-parent
+ews-provider-api
+ews-provider-cms
+ews-provider-emall
+ews-provider-mq
+ews-web-api
+ews-web-cms
+ews-web-emall
+ews-web-mq
+ews-web-timer
